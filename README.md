@@ -1,5 +1,5 @@
 # solar-challenge-week1
-Strategic Solar Insights for Sustainable Growth 
+# Strategic Solar Insights for Sustainable Growth 
 
 
 Business Objective
