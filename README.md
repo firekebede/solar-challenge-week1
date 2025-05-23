@@ -6,19 +6,7 @@ Business Objective
 MoonLight Energy Solutions is dedicated to driving forward clean energy initiatives through smart investments in solar technology. To support our long-term sustainability goals, we launched a data-driven project to evaluate environmental conditions across multiple regions and pinpoint the most promising locations for solar installations. As the Analytics Engineer on this project, my role was to lead the end-to-end analysis, from collecting and cleaning the raw data to performing exploratory analysis and building interactive dashboards. The goal was to uncover meaningful insights from solar-related environmental metrics and translate them into a clear, actionable strategy for solar investment.
 
 1. Project Setup and Environment Configuration
-We began by establishing a well-structured codebase:
-Project Structure
-solar-challenge-week1/
-├── .github/         # CI workflows
-├── .vscode/         # Editor settings
-├── app/             # Streamlit dashboard
-├── data/            # Cleaned CSVs (excluded from git)
-├── notebooks/       # EDA notebooks
-├── scripts/         # Python scripts
-├── tests/           # Test utilities
-├── .gitignore
-├── requirements.txt
-└── README.md
+We began by establishing a well-structured codebase.
 
 We created and activated a virtual environment using Python and managed dependencies via requirements.txt. Our .gitignore was carefully crafted to prevent committing large or sensitive files (like CSVs).
 2. Data Profiling, Cleaning & EDA
